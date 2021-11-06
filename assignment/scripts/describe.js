@@ -166,6 +166,11 @@ const time = 4;
 if (temp > 39 || time >= 4) {
   console.log('throw away the food!');
 }
+//fix instructions ask to check if temp is higher than 39 AND if time is greater or equal to 4.
+//code should be
+//if (temp > 39 && time >= 4) {
+  console.log('throw away the food!');
+}
 */
 
 //6. We start with two variables -- age is set to 21 and minAge is set to 21.
