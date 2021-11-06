@@ -72,10 +72,17 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-//
-//
-//
-//
+//We made variable isStudent with a boolean value of true
+//We made variable age with a value of 34, data type number
+//We made variable zip with a value of 55407, data type number
+//We checked if variable isStudent and variable zip are true and 80000 respectively
+//...they weren't so no console.log. skipped to the next else if
+//We checked if variable isStudent is false or if age is less than 30. Both conditions
+//are false. We skipped to the next else if
+//We checked if variable isStudent is true. It is so we console.log 'Welcome to Prime'
+//last code line with the else code was skipped because we got a true value above
+
+}
 
 //CODE
 /*
