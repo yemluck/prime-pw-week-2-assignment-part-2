@@ -186,4 +186,11 @@ if(minAge <= age) {
 } else {
   console.log('enter');
 }
+//Fix: Mathematically, A >=B is same as B <=A but to follow instructions to the t,
+// code should be
+//if (age >= minAge) {
+ console.log('enter');
+} else {
+ console.log('no entry');
+}
 */
