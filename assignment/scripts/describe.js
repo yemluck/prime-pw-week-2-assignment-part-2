@@ -140,11 +140,18 @@ if (number >= 2) {
 
 /*
 let colorOne = 'red';
+//colorOne is red but instructions ask for blue. should be let colorOne = 'blue'
 let colorTwo = 'blue';
+//colorTwo is blue but instructions ask for red. should be let colorOne = 'red'
 let mix = true;
 
 if (mix === true) {
   colorOne = 'purple';
+}
+// mix is true, instructions ask for both colorOne and colorTwo to be set to purple
+// should be if (mix === true) {
+colorOne = 'purple';
+colorTwo = 'purple';
 }
 */
 
